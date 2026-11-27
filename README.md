@@ -30,4 +30,5 @@
 
 - 本模块为开源二次修改版，基于 [vip772/OKK](https://github.com/vip772/OKK)，维护者 lovkem1
 - 源码见 https://github.com/lovkem1/OKK
+- Telegram 交流群：https://t.me/LokkChat
 - 仅供 Android 逆向工程 / Hook 技术学习与个人本地使用，请勿用于商业用途或违反服务协议。
